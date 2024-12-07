@@ -1,0 +1,14 @@
+C:\C#\Examen3\bin\Debug\Examen3.exe.config
+C:\C#\Examen3\bin\Debug\Examen3.exe
+C:\C#\Examen3\bin\Debug\Examen3.pdb
+C:\C#\Examen3\obj\Debug\Examen3.csproj.AssemblyReference.cache
+C:\C#\Examen3\obj\Debug\Examen3.csproj.CoreCompileInputs.cache
+C:\C#\Examen3\obj\Debug\Examen3.exe
+C:\C#\Examen3\obj\Debug\Examen3.pdb
+D:\Estructuras de Datos\Unidad 2\Examen3\bin\Debug\Examen3.exe.config
+D:\Estructuras de Datos\Unidad 2\Examen3\bin\Debug\Examen3.exe
+D:\Estructuras de Datos\Unidad 2\Examen3\bin\Debug\Examen3.pdb
+D:\Estructuras de Datos\Unidad 2\Examen3\obj\Debug\Examen3.csproj.AssemblyReference.cache
+D:\Estructuras de Datos\Unidad 2\Examen3\obj\Debug\Examen3.csproj.CoreCompileInputs.cache
+D:\Estructuras de Datos\Unidad 2\Examen3\obj\Debug\Examen3.exe
+D:\Estructuras de Datos\Unidad 2\Examen3\obj\Debug\Examen3.pdb

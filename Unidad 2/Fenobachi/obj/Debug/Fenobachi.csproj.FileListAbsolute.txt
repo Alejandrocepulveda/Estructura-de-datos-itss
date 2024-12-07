@@ -1,0 +1,7 @@
+C:\C#\Fenobachi\bin\Debug\Fenobachi.exe.config
+C:\C#\Fenobachi\bin\Debug\Fenobachi.exe
+C:\C#\Fenobachi\bin\Debug\Fenobachi.pdb
+C:\C#\Fenobachi\obj\Debug\Fenobachi.csproj.AssemblyReference.cache
+C:\C#\Fenobachi\obj\Debug\Fenobachi.csproj.CoreCompileInputs.cache
+C:\C#\Fenobachi\obj\Debug\Fenobachi.exe
+C:\C#\Fenobachi\obj\Debug\Fenobachi.pdb

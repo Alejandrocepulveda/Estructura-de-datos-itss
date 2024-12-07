@@ -1,0 +1,14 @@
+C:\C#\Recursividad2\bin\Debug\Recursividad2.exe.config
+C:\C#\Recursividad2\bin\Debug\Recursividad2.exe
+C:\C#\Recursividad2\bin\Debug\Recursividad2.pdb
+C:\C#\Recursividad2\obj\Debug\Recursividad2.csproj.AssemblyReference.cache
+C:\C#\Recursividad2\obj\Debug\Recursividad2.csproj.CoreCompileInputs.cache
+C:\C#\Recursividad2\obj\Debug\Recursividad2.exe
+C:\C#\Recursividad2\obj\Debug\Recursividad2.pdb
+D:\Estructuras de Datos\Unidad 2\Recursividad2\Recursividad2\bin\Debug\Recursividad2.exe.config
+D:\Estructuras de Datos\Unidad 2\Recursividad2\Recursividad2\bin\Debug\Recursividad2.exe
+D:\Estructuras de Datos\Unidad 2\Recursividad2\Recursividad2\bin\Debug\Recursividad2.pdb
+D:\Estructuras de Datos\Unidad 2\Recursividad2\Recursividad2\obj\Debug\Recursividad2.csproj.AssemblyReference.cache
+D:\Estructuras de Datos\Unidad 2\Recursividad2\Recursividad2\obj\Debug\Recursividad2.csproj.CoreCompileInputs.cache
+D:\Estructuras de Datos\Unidad 2\Recursividad2\Recursividad2\obj\Debug\Recursividad2.exe
+D:\Estructuras de Datos\Unidad 2\Recursividad2\Recursividad2\obj\Debug\Recursividad2.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mezcla", "Mezcla.csproj", "{2F6D56E5-F306-484C-8126-23090FDC2C3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F6D56E5-F306-484C-8126-23090FDC2C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6D56E5-F306-484C-8126-23090FDC2C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6D56E5-F306-484C-8126-23090FDC2C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6D56E5-F306-484C-8126-23090FDC2C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE469FC9-CA7E-4E7B-A4FF-145779B475BC}
+	EndGlobalSection
+EndGlobal

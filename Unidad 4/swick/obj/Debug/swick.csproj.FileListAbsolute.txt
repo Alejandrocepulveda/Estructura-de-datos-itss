@@ -1,0 +1,17 @@
+C:\C#\swick\bin\Debug\swick.exe.config
+C:\C#\swick\bin\Debug\swick.exe
+C:\C#\swick\bin\Debug\swick.pdb
+C:\C#\swick\obj\Debug\swick.csproj.AssemblyReference.cache
+C:\C#\swick\obj\Debug\swick.csproj.CoreCompileInputs.cache
+C:\C#\swick\obj\Debug\swick.exe
+C:\C#\swick\obj\Debug\swick.pdb
+D:\Estructuras de Datos\Unidad 4\swick\bin\Debug\swick.exe.config
+D:\Estructuras de Datos\Unidad 4\swick\bin\Debug\swick.exe
+D:\Estructuras de Datos\Unidad 4\swick\bin\Debug\swick.pdb
+D:\Estructuras de Datos\Unidad 4\swick\obj\Debug\swick.csproj.AssemblyReference.cache
+D:\Estructuras de Datos\Unidad 4\swick\obj\Debug\swick.csproj.CoreCompileInputs.cache
+D:\Estructuras de Datos\Unidad 4\swick\obj\Debug\swick.exe
+D:\Estructuras de Datos\Unidad 4\swick\obj\Debug\swick.pdb
+E:\Estructuras de Datos\Unidad 4\swick\bin\Debug\swick.exe.config
+E:\Estructuras de Datos\Unidad 4\swick\obj\Debug\swick.exe
+E:\Estructuras de Datos\Unidad 4\swick\obj\Debug\swick.pdb

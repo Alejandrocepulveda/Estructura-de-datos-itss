@@ -1,0 +1,28 @@
+E:\Estructuras de Datos\Unidad 3\EDLineales\EDLineales\bin\Debug\EDLineales.exe.config
+E:\Estructuras de Datos\Unidad 3\EDLineales\EDLineales\bin\Debug\EDLineales.exe
+E:\Estructuras de Datos\Unidad 3\EDLineales\EDLineales\bin\Debug\EDLineales.pdb
+E:\Estructuras de Datos\Unidad 3\EDLineales\EDLineales\obj\Debug\EDLineales.csprojResolveAssemblyReference.cache
+E:\Estructuras de Datos\Unidad 3\EDLineales\EDLineales\obj\Debug\EDLineales.exe
+E:\Estructuras de Datos\Unidad 3\EDLineales\EDLineales\obj\Debug\EDLineales.pdb
+E:\Estructuras de Datos\Unidad 3\EDLineales1\EDLineales\bin\Debug\EDLineales.exe.config
+E:\Estructuras de Datos\Unidad 3\EDLineales1\EDLineales\obj\Debug\EDLineales.exe
+E:\Estructuras de Datos\Unidad 3\EDLineales1\EDLineales\obj\Debug\EDLineales.pdb
+C:\Users\SIERRA\Documents\EDLineales1\EDLineales\bin\Debug\EDLineales.exe.config
+C:\Users\SIERRA\Documents\EDLineales1\EDLineales\obj\Debug\EDLineales.exe
+C:\Users\SIERRA\Documents\EDLineales1\EDLineales\obj\Debug\EDLineales.pdb
+C:\Users\SIERRA\Documents\EDLineales1\EDLineales\bin\Debug\EDLineales.exe
+C:\Users\SIERRA\Documents\EDLineales1\EDLineales\bin\Debug\EDLineales.pdb
+C:\Users\SIERRA\Documents\EDLineales1\EDLineales\obj\Debug\EDLineales.csprojResolveAssemblyReference.cache
+E:\Estructuras de Datos\Unidad 3\EDLineales25\EDLineales\bin\Debug\EDLineales.exe.config
+E:\Estructuras de Datos\Unidad 3\EDLineales25\EDLineales\bin\Debug\EDLineales.exe
+E:\Estructuras de Datos\Unidad 3\EDLineales25\EDLineales\bin\Debug\EDLineales.pdb
+E:\Estructuras de Datos\Unidad 3\EDLineales25\EDLineales\obj\Debug\EDLineales.csproj.AssemblyReference.cache
+E:\Estructuras de Datos\Unidad 3\EDLineales25\EDLineales\obj\Debug\EDLineales.csproj.CoreCompileInputs.cache
+E:\Estructuras de Datos\Unidad 3\EDLineales25\EDLineales\obj\Debug\EDLineales.exe
+E:\Estructuras de Datos\Unidad 3\EDLineales25\EDLineales\obj\Debug\EDLineales.pdb
+E:\Estructuras de Datos\Unidad 3\EDLineales36\EDLineales\bin\Debug\EDLineales.exe.config
+E:\Estructuras de Datos\Unidad 3\EDLineales36\EDLineales\obj\Debug\EDLineales.exe
+E:\Estructuras de Datos\Unidad 3\EDLineales36\EDLineales\obj\Debug\EDLineales.pdb
+E:\Estructuras de Datos\Unidad 3\EDLineales36\EDLineales\bin\Debug\EDLineales.exe
+E:\Estructuras de Datos\Unidad 3\EDLineales36\EDLineales\bin\Debug\EDLineales.pdb
+E:\Estructuras de Datos\Unidad 3\EDLineales36\EDLineales\obj\Debug\EDLineales.csprojResolveAssemblyReference.cache

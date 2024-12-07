@@ -1,0 +1,9 @@
+C:\Users\SIERRA\Documents\Estructura de datos\Lista_LinkedLink1\Lista_LinkedLink1\bin\Debug\Lista_LinkedLink1.exe.config
+C:\Users\SIERRA\Documents\Estructura de datos\Lista_LinkedLink1\Lista_LinkedLink1\bin\Debug\Lista_LinkedLink1.exe
+C:\Users\SIERRA\Documents\Estructura de datos\Lista_LinkedLink1\Lista_LinkedLink1\bin\Debug\Lista_LinkedLink1.pdb
+C:\Users\SIERRA\Documents\Estructura de datos\Lista_LinkedLink1\Lista_LinkedLink1\obj\Debug\Lista_LinkedLink1.csprojResolveAssemblyReference.cache
+C:\Users\SIERRA\Documents\Estructura de datos\Lista_LinkedLink1\Lista_LinkedLink1\obj\Debug\Lista_LinkedLink1.exe
+C:\Users\SIERRA\Documents\Estructura de datos\Lista_LinkedLink1\Lista_LinkedLink1\obj\Debug\Lista_LinkedLink1.pdb
+D:\Estructuras de Datos\Unidad 3\Lista_LinkedLink1\Lista_LinkedLink1\bin\Debug\Lista_LinkedLink1.exe.config
+D:\Estructuras de Datos\Unidad 3\Lista_LinkedLink1\Lista_LinkedLink1\obj\Debug\Lista_LinkedLink1.exe
+D:\Estructuras de Datos\Unidad 3\Lista_LinkedLink1\Lista_LinkedLink1\obj\Debug\Lista_LinkedLink1.pdb

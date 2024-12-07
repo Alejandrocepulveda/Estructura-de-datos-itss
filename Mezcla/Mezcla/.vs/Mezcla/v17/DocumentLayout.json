@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mezcla\\Mezcla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6D56E5-F306-484C-8126-23090FDC2C3D}|Mezcla.csproj|d:\\mezcla\\mezcla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6D56E5-F306-484C-8126-23090FDC2C3D}|Mezcla.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6D56E5-F306-484C-8126-23090FDC2C3D}|Mezcla.csproj|D:\\Mezcla\\Mezcla\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6D56E5-F306-484C-8126-23090FDC2C3D}|Mezcla.csproj|solutionrelative:cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6D56E5-F306-484C-8126-23090FDC2C3D}|Mezcla.csproj|D:\\Mezcla\\Mezcla\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6D56E5-F306-484C-8126-23090FDC2C3D}|Mezcla.csproj|solutionrelative:pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6D56E5-F306-484C-8126-23090FDC2C3D}|Mezcla.csproj|D:\\Mezcla\\Mezcla\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6D56E5-F306-484C-8126-23090FDC2C3D}|Mezcla.csproj|solutionrelative:lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "D:\\Mezcla\\Mezcla\\Lista.cs",
+              "RelativeDocumentMoniker": "Lista.cs",
+              "ToolTip": "D:\\Mezcla\\Mezcla\\Lista.cs",
+              "RelativeToolTip": "Lista.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:02:19.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "D:\\Mezcla\\Mezcla\\Cola.cs",
+              "RelativeDocumentMoniker": "Cola.cs",
+              "ToolTip": "D:\\Mezcla\\Mezcla\\Cola.cs",
+              "RelativeToolTip": "Cola.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAEUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:02:19.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "D:\\Mezcla\\Mezcla\\Pila.cs",
+              "RelativeDocumentMoniker": "Pila.cs",
+              "ToolTip": "D:\\Mezcla\\Mezcla\\Pila.cs",
+              "RelativeToolTip": "Pila.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:02:19.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mezcla\\Mezcla\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Mezcla\\Mezcla\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:02:19.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

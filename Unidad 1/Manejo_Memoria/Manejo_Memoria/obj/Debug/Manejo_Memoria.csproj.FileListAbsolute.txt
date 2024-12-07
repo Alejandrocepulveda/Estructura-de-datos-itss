@@ -1,0 +1,9 @@
+E:\tercer semestre may\Manejo_Memoria\Manejo_Memoria\bin\Debug\Manejo_Memoria.exe.config
+E:\tercer semestre may\Manejo_Memoria\Manejo_Memoria\obj\Debug\Manejo_Memoria.csprojResolveAssemblyReference.cache
+E:\tercer semestre may\Manejo_Memoria\Manejo_Memoria\bin\Debug\Manejo_Memoria.exe
+E:\tercer semestre may\Manejo_Memoria\Manejo_Memoria\bin\Debug\Manejo_Memoria.pdb
+E:\tercer semestre may\Manejo_Memoria\Manejo_Memoria\obj\Debug\Manejo_Memoria.exe
+E:\tercer semestre may\Manejo_Memoria\Manejo_Memoria\obj\Debug\Manejo_Memoria.pdb
+E:\Estructuras de Datos\Unidad Uno\Manejo_Memoria\Manejo_Memoria\bin\Debug\Manejo_Memoria.exe.config
+E:\Estructuras de Datos\Unidad Uno\Manejo_Memoria\Manejo_Memoria\obj\Debug\Manejo_Memoria.exe
+E:\Estructuras de Datos\Unidad Uno\Manejo_Memoria\Manejo_Memoria\obj\Debug\Manejo_Memoria.pdb

@@ -1,0 +1,10 @@
+C:\C#\PilaClase\bin\Debug\PilaClase.exe.config
+C:\C#\PilaClase\bin\Debug\PilaClase.exe
+C:\C#\PilaClase\bin\Debug\PilaClase.pdb
+C:\C#\PilaClase\obj\Debug\PilaClase.csproj.AssemblyReference.cache
+C:\C#\PilaClase\obj\Debug\PilaClase.csproj.CoreCompileInputs.cache
+C:\C#\PilaClase\obj\Debug\PilaClase.exe
+C:\C#\PilaClase\obj\Debug\PilaClase.pdb
+E:\Estructuras de Datos\Unidad 3\ColaClase\bin\Debug\PilaClase.exe.config
+E:\Estructuras de Datos\Unidad 3\ColaClase\obj\Debug\PilaClase.exe
+E:\Estructuras de Datos\Unidad 3\ColaClase\obj\Debug\PilaClase.pdb

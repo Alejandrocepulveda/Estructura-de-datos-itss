@@ -1,0 +1,6 @@
+E:\Estructuras de Datos\Unidad 3\Repaso_Unidad3-EL\Repaso_Unidad3-EL\bin\Debug\Repaso_Unidad3-EL.exe.config
+E:\Estructuras de Datos\Unidad 3\Repaso_Unidad3-EL\Repaso_Unidad3-EL\bin\Debug\Repaso_Unidad3-EL.exe
+E:\Estructuras de Datos\Unidad 3\Repaso_Unidad3-EL\Repaso_Unidad3-EL\bin\Debug\Repaso_Unidad3-EL.pdb
+E:\Estructuras de Datos\Unidad 3\Repaso_Unidad3-EL\Repaso_Unidad3-EL\obj\Debug\Repaso_Unidad3-EL.csprojResolveAssemblyReference.cache
+E:\Estructuras de Datos\Unidad 3\Repaso_Unidad3-EL\Repaso_Unidad3-EL\obj\Debug\Repaso_Unidad3-EL.exe
+E:\Estructuras de Datos\Unidad 3\Repaso_Unidad3-EL\Repaso_Unidad3-EL\obj\Debug\Repaso_Unidad3-EL.pdb

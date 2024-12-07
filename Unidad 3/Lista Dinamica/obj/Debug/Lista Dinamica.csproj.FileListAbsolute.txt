@@ -1,0 +1,7 @@
+C:\C#\Lista Dinamica\bin\Debug\Lista Dinamica.exe.config
+C:\C#\Lista Dinamica\bin\Debug\Lista Dinamica.exe
+C:\C#\Lista Dinamica\bin\Debug\Lista Dinamica.pdb
+C:\C#\Lista Dinamica\obj\Debug\Lista Dinamica.csproj.AssemblyReference.cache
+C:\C#\Lista Dinamica\obj\Debug\Lista Dinamica.csproj.CoreCompileInputs.cache
+C:\C#\Lista Dinamica\obj\Debug\Lista Dinamica.exe
+C:\C#\Lista Dinamica\obj\Debug\Lista Dinamica.pdb

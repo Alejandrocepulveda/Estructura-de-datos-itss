@@ -1,0 +1,13 @@
+C:\C#\RepasoUnidad3_EL_COLA\bin\Debug\RepasoUnidad3_EL_COLA.exe.config
+C:\C#\RepasoUnidad3_EL_COLA\bin\Debug\RepasoUnidad3_EL_COLA.exe
+C:\C#\RepasoUnidad3_EL_COLA\bin\Debug\RepasoUnidad3_EL_COLA.pdb
+C:\C#\RepasoUnidad3_EL_COLA\obj\Debug\RepasoUnidad3_EL_COLA.csproj.AssemblyReference.cache
+C:\C#\RepasoUnidad3_EL_COLA\obj\Debug\RepasoUnidad3_EL_COLA.csproj.CoreCompileInputs.cache
+C:\C#\RepasoUnidad3_EL_COLA\obj\Debug\RepasoUnidad3_EL_COLA.exe
+C:\C#\RepasoUnidad3_EL_COLA\obj\Debug\RepasoUnidad3_EL_COLA.pdb
+D:\Estructuras de Datos\Unidad 3\RepasoUnidad3_EL_COLA\bin\Debug\RepasoUnidad3_EL_COLA.exe.config
+D:\Estructuras de Datos\Unidad 3\RepasoUnidad3_EL_COLA\obj\Debug\RepasoUnidad3_EL_COLA.exe
+D:\Estructuras de Datos\Unidad 3\RepasoUnidad3_EL_COLA\obj\Debug\RepasoUnidad3_EL_COLA.pdb
+D:\Estructuras de Datos\Unidad 3\RepasoUnidad3_EL_COLA\bin\Debug\RepasoUnidad3_EL_COLA.exe
+D:\Estructuras de Datos\Unidad 3\RepasoUnidad3_EL_COLA\bin\Debug\RepasoUnidad3_EL_COLA.pdb
+D:\Estructuras de Datos\Unidad 3\RepasoUnidad3_EL_COLA\obj\Debug\RepasoUnidad3_EL_COLA.csprojResolveAssemblyReference.cache

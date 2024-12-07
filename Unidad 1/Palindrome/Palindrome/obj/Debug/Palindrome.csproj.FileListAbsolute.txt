@@ -1,0 +1,6 @@
+E:\Estructuras de Datos\Unidad Uno\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+E:\Estructuras de Datos\Unidad Uno\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+E:\Estructuras de Datos\Unidad Uno\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+E:\Estructuras de Datos\Unidad Uno\Palindrome\Palindrome\obj\Debug\Palindrome.csprojResolveAssemblyReference.cache
+E:\Estructuras de Datos\Unidad Uno\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+E:\Estructuras de Datos\Unidad Uno\Palindrome\Palindrome\obj\Debug\Palindrome.pdb

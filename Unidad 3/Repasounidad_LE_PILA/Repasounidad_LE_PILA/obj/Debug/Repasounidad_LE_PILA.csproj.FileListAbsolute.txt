@@ -1,0 +1,6 @@
+E:\Estructuras de Datos\Unidad 3\Repasounidad_LE_PILA\Repasounidad_LE_PILA\bin\Debug\Repasounidad_LE_PILA.exe.config
+E:\Estructuras de Datos\Unidad 3\Repasounidad_LE_PILA\Repasounidad_LE_PILA\obj\Debug\Repasounidad_LE_PILA.csprojResolveAssemblyReference.cache
+E:\Estructuras de Datos\Unidad 3\Repasounidad_LE_PILA\Repasounidad_LE_PILA\bin\Debug\Repasounidad_LE_PILA.exe
+E:\Estructuras de Datos\Unidad 3\Repasounidad_LE_PILA\Repasounidad_LE_PILA\bin\Debug\Repasounidad_LE_PILA.pdb
+E:\Estructuras de Datos\Unidad 3\Repasounidad_LE_PILA\Repasounidad_LE_PILA\obj\Debug\Repasounidad_LE_PILA.exe
+E:\Estructuras de Datos\Unidad 3\Repasounidad_LE_PILA\Repasounidad_LE_PILA\obj\Debug\Repasounidad_LE_PILA.pdb

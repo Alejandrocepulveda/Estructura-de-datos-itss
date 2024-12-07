@@ -1,0 +1,6 @@
+E:\Estructuras de Datos\Unidad 5\ArrayLNQ\ArrayLNQ\bin\Debug\ArrayLNQ.exe.config
+E:\Estructuras de Datos\Unidad 5\ArrayLNQ\ArrayLNQ\bin\Debug\ArrayLNQ.exe
+E:\Estructuras de Datos\Unidad 5\ArrayLNQ\ArrayLNQ\bin\Debug\ArrayLNQ.pdb
+E:\Estructuras de Datos\Unidad 5\ArrayLNQ\ArrayLNQ\obj\Debug\ArrayLNQ.csprojResolveAssemblyReference.cache
+E:\Estructuras de Datos\Unidad 5\ArrayLNQ\ArrayLNQ\obj\Debug\ArrayLNQ.exe
+E:\Estructuras de Datos\Unidad 5\ArrayLNQ\ArrayLNQ\obj\Debug\ArrayLNQ.pdb

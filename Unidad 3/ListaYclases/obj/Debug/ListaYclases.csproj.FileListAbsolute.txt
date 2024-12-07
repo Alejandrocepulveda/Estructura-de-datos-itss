@@ -1,0 +1,7 @@
+C:\C#\ListaYclases\bin\Debug\ListaYclases.exe.config
+C:\C#\ListaYclases\bin\Debug\ListaYclases.exe
+C:\C#\ListaYclases\bin\Debug\ListaYclases.pdb
+C:\C#\ListaYclases\obj\Debug\ListaYclases.csproj.AssemblyReference.cache
+C:\C#\ListaYclases\obj\Debug\ListaYclases.csproj.CoreCompileInputs.cache
+C:\C#\ListaYclases\obj\Debug\ListaYclases.exe
+C:\C#\ListaYclases\obj\Debug\ListaYclases.pdb

@@ -1,0 +1,7 @@
+C:\C#\ArbolBinario3\bin\Debug\ArbolBinario3.exe.config
+C:\C#\ArbolBinario3\bin\Debug\ArbolBinario3.exe
+C:\C#\ArbolBinario3\bin\Debug\ArbolBinario3.pdb
+C:\C#\ArbolBinario3\obj\Debug\ArbolBinario3.csproj.AssemblyReference.cache
+C:\C#\ArbolBinario3\obj\Debug\ArbolBinario3.csproj.CoreCompileInputs.cache
+C:\C#\ArbolBinario3\obj\Debug\ArbolBinario3.exe
+C:\C#\ArbolBinario3\obj\Debug\ArbolBinario3.pdb
